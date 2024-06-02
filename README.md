@@ -21,6 +21,6 @@
 
 <a href="https://moyaosvita.com.ua/geografija/chorne-more-polozhennya-xarakteristika-ta-cikavi-fakti/">Чорне море — положення, характеристика та цікаві факти</a>
 
-<hr width="100%"size="7"> <br>
+<hr> <br>
 <marquee bgcolor="pink" height=40>Дякую за увагу</marquee>
 
