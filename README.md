@@ -1,5 +1,6 @@
 <html> 
 <body bgcolor="E1EDEC">
+<p><font color="7C5A66"><b>Привіт! Це мій перший сайт! </b></p>
 <font color="7C5A66"><p align="left"> Мене звати Крістіна</p>
 <font color="7C5A66"><p align="right"> Я навчаюся у Виноградівському державному коледжі МДУ</p>
 <font color="7C5A66"><p align="center">на першому курci</p>
